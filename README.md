@@ -5,6 +5,10 @@ sketch using 2D Primitive shapes, variables, and conditionals.
 
 [p5.js editor] https://editor.p5js.org/Josephine003/full/NHlaqKeqy
 
+### Task
+[] make a p5.js sketch using 2D primitive shapes, variables, and conditionals
+[] experiment with at least one of the following primitive shapes from the https://p5js.org/reference/ (line, triangle, quad, arc.)
+
 ### Notes
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/207430bd-7a41-41ce-8ad6-a227bc8513e9" />
 p5.js
