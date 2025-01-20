@@ -18,6 +18,7 @@ Youtube : The Coding Train (About coding) / Art+ code with Casey Hunt
 semicolon (;) : to devide sections of the codes
 
 ## Process and Experimentation
+https://editor.p5js.org/Josephine003/full/jIL9191TU
 
 <img width="804" alt="image" src="https://github.com/user-attachments/assets/7c97f574-691e-4f43-af0d-82f83219db20" />
 
