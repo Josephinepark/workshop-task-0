@@ -3,7 +3,7 @@
 # Workshop 0 : start writing code
 sketch using 2D Primitive shapes, variables, and conditionals.
 
-[website link] http://127.0.0.1:5500/
+[website link] https://josephinepark.github.io/workshop-task-0/
 
 ## Task
 [] make a p5.js sketch using 2D primitive shapes, variables, and conditionals <br>
