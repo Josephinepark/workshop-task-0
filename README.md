@@ -5,6 +5,8 @@ sketch using 2D Primitive shapes, variables, and conditionals.
 
 [website link] https://josephinepark.github.io/workshop-task-0/
 
+- I applied a twinkling effect using shapes.
+
 ## Task
 [] make a p5.js sketch using 2D primitive shapes, variables, and conditionals <br>
 [] experiment with at least one of the following primitive shapes from the https://p5js.org/reference/ (line, triangle, quad, arc.) <br>
@@ -60,6 +62,8 @@ I have added the variables and conditinoals.
 
 ## Future Development
 Through this workshop, I learned what coding is and I was able to make simple 2D shapes. It was interesting that if I type it in a computer language, the result comes out. Computer language (coding) is not familiar to me, so it was not easy to learn one thing and have the shape put where I want to be. In the next workshop, I want to try and create something better, not just simple shapes. Through this exercise, I have used random functions, so I will try better results with this.
+
+Specifically, to my workshop task, I would like to incorporate mouse interactions and adjust the shapes' size and speed randomly to create a more lively visual representation. Additionally, I aim to implement transition effects and color gradients to achieve a smoother and more natural twinkling effect.
 
 
 ## Reference / other sources that helped me
